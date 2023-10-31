@@ -6,4 +6,4 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 
 ![veloraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=veloraine)
 
-![veloraine's leetcode activity](https://leetcard.jacoblin.cool/veloraine?ext=activity)
+![veloraine's leetcode activity](https://leetcard.jacoblin.cool/cronola?ext=activity)
