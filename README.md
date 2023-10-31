@@ -5,8 +5,9 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-ivander/)
 ![Profile Views](https://komarev.com/ghpvc/?username=veloraine)
 
-## 🚀 Technologies
+![veloraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=veloraine)
 
+## 🚀 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -20,7 +21,5 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-
-![veloraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=veloraine)
 
 ![veloraine's leetcode activity](https://leetcard.jacoblin.cool/cronola?ext=activity)
