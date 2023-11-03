@@ -25,6 +25,7 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
 ## 🎉 Fun Facts
-- I have a passion for drawing and spend my free time creating beautiful artworks.
+- I have a passion for drawing and spend my free time doing it.
+- I'm just your typical programmer-gamer-weeb
 
 ![veloraine's leetcode activity](https://leetcard.jacoblin.cool/cronola?ext=activity)
