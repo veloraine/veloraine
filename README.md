@@ -28,4 +28,6 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 - I have a passion for drawing and spend my free time doing it.
 - I'm just your typical programmer-gamer-weeb
 
+## More
+
 ![veloraine's leetcode activity](https://leetcard.jacoblin.cool/cronola?ext=activity)
