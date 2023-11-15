@@ -24,10 +24,16 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=veloraine&show_icons=true&locale=en)
+
 ## 🎉 Fun Facts
 - I have a passion for drawing and spend my free time doing it.
 - I'm just your typical programmer-gamer-weeb
 
-## More
+## Reach Me Out
+<a href="mailto:bivanderr@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:bivander@ristek.cs.ui.ac.id"><img src="https://img.shields.io/badge/RISTEK-8154e0?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+## 📄 More About Me
 
 ![veloraine's leetcode activity](https://leetcard.jacoblin.cool/cronola?ext=activity)
