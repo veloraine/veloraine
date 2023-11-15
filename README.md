@@ -31,8 +31,8 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 - I'm just your typical programmer-gamer-weeb
 
 ## Reach Me Out
-<a href="mailto:bivanderr@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:bivander@ristek.cs.ui.ac.id"><img src="https://img.shields.io/badge/RISTEK-8154e0?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bivanderr@gmail.com)
+[![Ristek Badge](https://img.shields.io/badge/RISTEK-8154e0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:bivander@ristek.cs.ui.ac.id)
 
 ## 📄 More About Me
 
