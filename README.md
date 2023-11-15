@@ -30,7 +30,7 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 - I have a passion for drawing and spend my free time doing it.
 - I'm just your typical programmer-gamer-weeb
 
-## Reach Me Out
+## 💬 Reach Me Out
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bivanderr@gmail.com)
 [![Ristek Badge](https://img.shields.io/badge/RISTEK-8154e0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:bivander@ristek.cs.ui.ac.id)
 
