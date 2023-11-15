@@ -5,7 +5,7 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-ivander/)
 ![Profile Views](https://komarev.com/ghpvc/?username=veloraine)
 
-![veloraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=veloraine&show_icons=true&theme=radical)
+![veloraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=veloraine&show_icons=true&theme=tokyonight)
 
 ## 🚀 Technologies
 
@@ -24,7 +24,7 @@ A final year Computer Science student at University of Indonesia. Eager to explo
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=veloraine&show_icons=true&locale=en)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=veloraine&show_icons=true&locale=en&theme=tokyonight)
 
 ## 🎉 Fun Facts
 - I have a passion for drawing and spend my free time doing it.
